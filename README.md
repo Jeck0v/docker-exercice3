@@ -9,7 +9,7 @@ Concevoir et configurer un dockerfile pour PostgreSQL.
 
 ## 🛠️ Technologie utiliser
 - [Docker](https://www.docker.com/)
-- [PostgreSQL]([https://nodejs.org/](https://www.postgresql.org/))
+- [PostgreSQL](https://www.postgresql.org/)
    
 
 <hr>
